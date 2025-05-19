@@ -1,0 +1,36 @@
+{
+  "short_name": "StoryAPI",
+  "name": "Story API",
+  "icons": [
+    {
+      "src": "styles/images/location192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "styles/images/location512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "description": "Aplikasi api berbagi cerita.",
+  "screenshots": [
+    {
+      "src": "styles/images/screenshot-dekstop.jpg",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "styles/images/screenshot-mobile.png",
+      "sizes": "720x1280",
+      "type": "image/png"
+    }
+  ]
+}
