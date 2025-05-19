@@ -2,4 +2,4 @@ API Keys:
 - Story API: https://story-api.dicoding.dev/v1
 - Map Service: OpenStreetMap
 
-Github Pages : 
+Github Pages : https://fariidhii.github.io/StoryAPI/
